@@ -11,5 +11,7 @@ public class ArrayInput {
         for (int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
+        //length of array size
+        System.out.println(arr.length);
     }
 }
